@@ -77,10 +77,10 @@ DerivedDataCache/*
 #Custom Directories
 #!Content/
 !Content/Assets/Animations/
-Content/Assets/Audio/*
-Content/Assets/Font/*
-Content/Assets/Humans/*
-Content/Assets/Icons/*
+!Content/Assets/Audio/
+!Content/Assets/Font/
+!Content/Assets/Humans/
+!Content/Assets/Icons/
 Content/Assets/Maps/*
 Content/Assets/Others/*
 Content/Assets/Outline/*
