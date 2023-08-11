@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+#Custom Directories
+!Content/
+Content/Assets*
+Content/Developers*
+Content/Collections*
+Content/Maps*
+Plugins/*
