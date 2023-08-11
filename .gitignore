@@ -69,6 +69,7 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
+Content/Developers*
 
 # Cache files for the editor to use
 DerivedDataCache/*
@@ -89,9 +90,10 @@ Content/Assets/Maps/*
 !Content/Assets/Prop/
 !Content/Assets/SafeZone/
 !Content/Assets/UI/
-!Content/Assets/Vehicle/*
+!Content/Assets/Vehicle/
 !Content/Weapons
-Content/Developers*
 Content/Collections*
-Content/Maps*
 Plugins/*
+Content/Assets/Maps.rar
+Content/Maps/._Level_Battle.umap
+Content/Maps/Level_Battle.umap
