@@ -86,11 +86,11 @@ Content/Assets/Maps/*
 !Content/Assets/Outline/
 !Content/Assets/Parachute/
 !Content/Assets/Particles/
-Content/Assets/Prop/*
-Content/Assets/SafeZone/*
-Content/Assets/UI/*
-Content/Assets/Vehicle/*
-Content/Weapons*
+!Content/Assets/Prop/
+!Content/Assets/SafeZone/
+!Content/Assets/UI/
+!Content/Assets/Vehicle/*
+!Content/Weapons
 Content/Developers*
 Content/Collections*
 Content/Maps*
